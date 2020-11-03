@@ -1,0 +1,31 @@
+body {
+        margin: 0;
+        padding: 0;
+    }
+.header{
+        height: 50px;
+	background-color: #EAEAEA;
+        font-size: 20px;
+        padding-top: 7px;
+        padding-left: 7px;
+    }
+
+.content1 {
+        height: auto;
+        background-color: #C8FC98;
+        width: 200px;
+        padding: 1px 7px 7px 7px;
+        line-height: 1.25;
+        float: left;
+        margin-right: 10px;
+    }
+.content2 {
+        padding: 1px 7px 7px 7px;
+        line-height: 1.25;
+    }
+.footer {
+        height: 30px;
+        background-color: black;
+        text-align: center;
+        clear: both;
+}

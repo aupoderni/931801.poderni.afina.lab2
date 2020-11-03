@@ -1,0 +1,39 @@
+body {
+        margin: 0;
+        padding: 0;
+    }
+.content1{
+	height:auto;
+	width:auto;
+	border-spacing:0px;
+	padding: 0px;
+	background-color:aqua;
+	margin: 10px;
+}
+.content2{
+	height:50px;
+	width:150px;
+	padding: 15px;
+        color: black;
+	background-color:bisque;
+}
+.content3{
+	height:auto;
+	width:auto;
+        color: black;
+	background-color:darkgray;
+}
+.footer{
+        height: 50px;
+	width: 100%;
+        background-color: limegreen;
+	position: fixed;
+	bottom:0px;
+}
+td{
+	vertical-align: top;
+	padding:0px;
+}
+p{
+	margin:0px;
+}

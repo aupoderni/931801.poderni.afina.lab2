@@ -1,0 +1,20 @@
+body {
+        margin: 0;
+        padding: 0;
+    }
+.content1 {
+        height: 100px;
+        width: 200px;
+	margin:25px;
+	float:left;
+	color: black;
+	background-color:aquamarine;
+}
+.content2 {
+        height: auto;
+        width: max;
+	margin:10px;
+	clear: both;
+	color:black;
+	background-color:bisque;
+}

@@ -1,0 +1,19 @@
+body {
+        margin: 0;
+        padding: 0;
+    }
+.content1{
+	height:auto;
+	width:500px;
+        background-color: green;
+        color: white;
+        margin: 25px auto;
+}
+.content2{
+	height:auto;
+	width:500px;
+	border:50px solid blue;
+        background-color: blue;
+        color: white;
+        margin: auto;
+}

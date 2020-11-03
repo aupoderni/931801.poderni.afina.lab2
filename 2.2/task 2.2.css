@@ -1,0 +1,39 @@
+body {
+        margin: 0;
+        padding: 0;
+    }
+.header {
+        height: 50px;
+	background-color: #EAEAEA;
+        font-size: 20px;
+        padding-top: 7px;
+        padding-left: 7px;
+    }
+.content1 {
+        height: auto;
+        background-color: #C8FC98;
+        width: 25%;
+        padding: 1px 7px 7px 7px;
+        line-height: 1.25;
+        float: left;
+        margin-right: 10px;
+    }
+
+.content2 {
+        padding: 1px 7px 7px 7px;
+        line-height: 1.25;
+    }
+.content3 {
+        height: auto;
+        background-color: #FDE95E;
+        width: 200px;
+        line-height: 1.25;
+        padding: 1px 7px 7px 7px;
+        float: right;
+}
+.footer {
+        height: 30px;
+        background-color: black;
+        text-align: center;
+        clear: both;
+}

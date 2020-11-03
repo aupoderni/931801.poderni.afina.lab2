@@ -1,0 +1,16 @@
+body {
+        margin: 0;
+        padding: 0;
+    }
+.content1 {
+	height:auto;
+	min-height:265px;
+	width:max;
+	margin: 10px;
+	border: 2px solid green;
+	color:black;
+	background-color: aqua;
+}
+.content2 {
+	float:right;
+}
